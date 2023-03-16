@@ -13,8 +13,8 @@
 	<Product>Recyclable.Linq</Product>
 	<PackageTags>Recyclable ArrayPool Array Pool List Sortable Sort Linq</PackageTags>
 	<Description>Recyclable.Linq project is an open source framework for operating dynamic lists using LINQ at the best possible performance. It aims at providing minimal memory footprint.</Description>
-	<PackageProjectUrl>https://github.com/mlemanczyk/Recyclable.Collections</PackageProjectUrl>
-	<RepositoryUrl>https://github.com/mlemanczyk/Recyclable.Collections</RepositoryUrl>
+	<PackageProjectUrl>https://github.com/mlemanczyk/Recyclable.Linq</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/mlemanczyk/Recyclable.Linq</RepositoryUrl>
 	<Copyright>Marek Lemańczyk 2023</Copyright>
 	<PackageLicenseFile>LICENSE.md</PackageLicenseFile>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
